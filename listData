@@ -1,4 +1,4 @@
-const Tasks = [
+[
         {
             "name": "Work 1",
             "priority": "high",
