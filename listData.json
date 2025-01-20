@@ -1,0 +1,22 @@
+const Tasks = [
+        {
+            "name": "Work 1",
+            "priority": "high",
+            "description": "urgent work school"
+        },
+        {
+            "name": "Work 2",
+            "priority": "medium",
+            "description": "cooking"
+        },
+        {
+            "name": "Work 3",
+            "priority": "low",
+            "description": "laundry"
+        },
+        {
+            "name": "Work 4",
+            "priority": "medium",
+            "description": "gym and exercise"
+        }
+    ]
