@@ -1,5 +1,4 @@
-[
-        {
+[{
             "name": "Work 1",
             "priority": "high",
             "description": "urgent work school"
@@ -18,5 +17,4 @@
             "name": "Work 4",
             "priority": "medium",
             "description": "gym and exercise"
-        }
-    ]
+        }]
